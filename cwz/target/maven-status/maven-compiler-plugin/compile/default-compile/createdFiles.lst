@@ -1,0 +1,6 @@
+com\jnshu\pojo\Student.class
+com\jnshu\service\StudentService.class
+com\jnshu\view\View.class
+com\jnshu\application\Application.class
+com\jnshu\servicelmpl\StudentServicelmpl.class
+com\jnshu\mapper\StudentMapper.class

@@ -1,0 +1,14 @@
+20:34:46.174 INFO  com.jnshu.view.View 22 main - ++++++++++++++++++插入数据+++++++++++++++++++
+20:34:46.911 INFO  com.jnshu.view.View 38 main - +++++++++++++++++插入数据完成++++++++++++++++++
+20:34:46.912 INFO  com.jnshu.view.View 39 main - 用时：731毫秒
+20:34:46.913 INFO  com.jnshu.view.View 42 main - insert id is0
+20:34:46.914 INFO  com.jnshu.view.View 50 main - ++++++++++++++++++删除数据+++++++++++++++++++
+20:34:46.919 INFO  com.jnshu.view.View 55 main - true
+20:34:46.920 INFO  com.jnshu.view.View 56 main - +++++++++++++++++删除数据完成++++++++++++++++
+20:34:46.921 INFO  com.jnshu.view.View 64 main - ++++++++++++++++++更新数据+++++++++++++++++++
+20:34:46.960 INFO  com.jnshu.view.View 71 main - true
+20:34:46.960 INFO  com.jnshu.view.View 72 main - +++++++++++++++++更新数据完成++++++++++++++++++
+20:34:46.961 INFO  com.jnshu.view.View 81 main - +++++++++++++++根据姓名查找数据++++++++++++++++
+20:34:46.971 INFO  com.jnshu.view.View 83 main - 结果是：null
+20:34:46.971 INFO  com.jnshu.view.View 90 main - +++++++++++++++根据ID查找数据++++++++++++++++
+20:34:46.973 INFO  com.jnshu.view.View 92 main - 结果是： null
